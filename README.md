@@ -40,7 +40,7 @@
   <!-- Footer -->
   <footer class="bg-gray-900 text-white text-center p-4 mt-8">
     <p>© 2025 My Portfolio | Connect on 
-      <a href="https://www.linkedin.com/" class="underline">LinkedIn</a>
+      <a href="[https://www.linkedin.com](https://mail.google.com/mail/?view=cm&fs=1&to=soniharshit934@gmail.com)/" class="underline">Gmail</a>
     </p>
   </footer>
 </body>

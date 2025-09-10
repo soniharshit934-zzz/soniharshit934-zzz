@@ -40,9 +40,8 @@
   <!-- Footer -->
   <footer class="bg-gray-900 text-white text-center p-4 mt-8">
     <p>© 2025 My Portfolio | Connect on 
-      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=soniharshit934@gmail.com" target="_blank" 
-   style="padding:10px 20px; background:#4285F4; color:#fff; border-radius:8px; text-decoration:none;">
-   Gmail
+      <a href="mailto:soniharshit934@gmail.com">
+  Gmail
 </a>
   </footer>
 </body>

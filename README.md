@@ -3,14 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My Portfolio</title>
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 </head>
 <body class="bg-gray-100 text-gray-900 font-sans">
   <!-- Header -->
   <header class="bg-white shadow-md p-6">
-    <h1 class="text-3xl font-bold">My Animation Portfolio</h1>
-    <p class="text-gray-600">Animator | Motion Graphics | Creative Designer</p>
+    <h1 class="text-3xl font-bold">Harshit's Portfolio</h1>
+    <p class="text-gray-600">Motion Graphic Designer | 2D and 3D Animator</p>
   </header>
 
   <!-- Projects Section -->
